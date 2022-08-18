@@ -31,7 +31,7 @@
     "*.{md}": "markdownlint"
   },
   "devDependencies": {
-    "@actions/core": "^1.3.0",
+    "@actions/core": "^1.9.1",
     "@nuxt/content": "^1.14.0",
     "@nuxt/http": "^0.6.4",
     "@nuxtjs/color-mode": "^2.0.9",
